@@ -1,7 +1,7 @@
 Privacy Policy for Across ALA
 
 Effective Date: 22.10.24
-
+This app includes ads from Google AdMob.
 Introduction
 At Across ALA,  i am  committed to protecting your privacy. This policy explains how we handle your information when you use our app.
 
